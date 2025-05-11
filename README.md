@@ -1,7 +1,7 @@
 # Projetos Pessoais
 
 ## Objetivo
-Scriptsfeitos para melhorar minhas habilidades em JavaScript.
+Scripts feitos para melhorar minhas habilidades em JavaScript.
 ## Tecnologias
 - JavaScript
 
