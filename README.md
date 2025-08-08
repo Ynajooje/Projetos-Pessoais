@@ -1,9 +1,11 @@
 # Projetos Pessoais
 
 ## Objetivo
-Scripts feitos para desenvolver a materia e ter um melhor desenvolvimento em sala de aula.
+
+Scripts feitos com o intuito de mostrar minhas habilidades em programação.
 ## Tecnologias
 - JavaScript
 
 ## Como executar
+No terminal:
 `node "nome do arquivo.js`
